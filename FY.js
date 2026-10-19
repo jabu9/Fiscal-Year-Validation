@@ -3,7 +3,7 @@
 // Get the Beginning PoP Value
 var begin_pop = this.getField("beginning_pop").valuesAsString;
 
-// Get the Edning PoP Value
+// Get the Ending PoP Value
 var end_pop = this.getField("ending_pop").valuesAsString;
 
 // check if Beginning PoP is Null or Empty
